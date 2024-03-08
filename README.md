@@ -1,17 +1,17 @@
-#Player's Manual
-##How to Play:
-##Starting the Game:
+# Player's Manual
+## How to Play:
+## Starting the Game:
 
 Upon starting the game, an initial interface will appear where you can select the number of players (1 or 2).
 Control of the Ship: Use the arrow keys to move the ship in the desired direction.
 
-###For player 1:
-
+### For player 1:
 - Up: Up arrow key
 - Down: Down arrow key
 - Left: Left arrow key
 - Right: Right arrow key
-  ###For player 2:
+
+### For player 2:
 - Up: "W" key
 - Down: "S" key
 - Left: "A" key
