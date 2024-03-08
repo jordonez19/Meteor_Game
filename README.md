@@ -155,7 +155,7 @@ Control de la Nave: Utiliza las teclas de dirección para mover la nave en la di
 - Izquierda: Tecla de flecha hacia la izquierda
 - Derecha: Tecla de flecha hacia la derecha
 
-###Para el jugador 2:
+### Para el jugador 2:
 
 - Arriba: Tecla "W"
 - Abajo: Tecla "S"
@@ -170,19 +170,21 @@ Control de la Nave: Utiliza las teclas de dirección para mover la nave en la di
 
 ### 1 Jugador:
 
-**Movimiento: **Flechas direccionales (arriba, abajo, izquierda, derecha)
+**Movimiento**: Flechas direccionales (arriba, abajo, izquierda, derecha) 
 **Disparar**: Tecla "J"
-2 Jugadores:
-Jugador 1:
+
+## 2 Jugadores:
+### Jugador 1:
 **Movimiento**: Flechas direccionales (arriba, abajo, izquierda, derecha)
 **Disparar**: Tecla "J"
-Jugador 2:
+
+### Jugador 2:
 **Movimiento**: Teclas "W", "S", "A", "D"
 **Disparar**: Tecla "Espacio"
 
 Este manual proporciona instrucciones básicas para comenzar a jugar y las teclas asociadas para controlar las naves y disparar en el juego. ¡Espero que lo disfrutes!
 
-##Diagrama de Flujo:
+## Diagrama de Flujo:
 
 ```plaintext
 Inicio
