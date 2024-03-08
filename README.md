@@ -105,28 +105,28 @@ Check if all asteroids have been destroyed
 ```plaintext
 
    +----------------+
-    |        Sprite        |
+    |    Sprite     |
    +----------------+
-                |
+           |
     +--------------+
-    |     Bullet        |
+    |     Bullet   |
     +--------------+
-    | - player_idx   |
-    | - position      |
+    | - player_idx |
+    | - position   |
     +--------------+
-               |
+            |
     +--------------+
-    |   Asteroid      |
+    |   Asteroid   |
     +--------------+
-    | - speed          |
-    | - position      |
+    | - speed      |
+    | - position   |
     +--------------+
-               |
+            |
     +--------------+
-    |     Ship           |
+    |     Ship     |
     +--------------+
-    | - player_idx   |
-    | - position      |
+    | - player_idx |
+    | - position   |
     +--------------+
 ```
 
@@ -247,28 +247,28 @@ Comprobar si se han destruido todos los asteroides
 ```plaintext
 
    +----------------+
-    |        Sprite        |
+    |    Sprite     |
    +----------------+
-                |
+           |
     +--------------+
-    |     Bullet        |
+    |     Bullet   |
     +--------------+
-    | - player_idx   |
-    | - position      |
+    | - player_idx |
+    | - position   |
     +--------------+
-               |
+            |
     +--------------+
-    |   Asteroid      |
+    |   Asteroid   |
     +--------------+
-    | - speed          |
-    | - position      |
+    | - speed      |
+    | - position   |
     +--------------+
-               |
+            |
     +--------------+
-    |     Ship           |
+    |     Ship     |
     +--------------+
-    | - player_idx   |
-    | - position      |
+    | - player_idx |
+    | - position   |
     +--------------+
 ```
 
