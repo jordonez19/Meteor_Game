@@ -6,12 +6,14 @@ Upon starting the game, an initial interface will appear where you can select th
 Control of the Ship: Use the arrow keys to move the ship in the desired direction.
 
 ### For player 1:
+
 - Up: Up arrow key
 - Down: Down arrow key
 - Left: Left arrow key
 - Right: Right arrow key
 
 ### For player 2:
+
 - Up: "W" key
 - Down: "S" key
 - Left: "A" key
@@ -98,9 +100,9 @@ Check if all asteroids have been destroyed
 
 ```
 
-##Class Diagram:
+## Class Diagram:
 
-````plaintext
+```plaintext
 
    +----------------+
     |        Sprite        |
@@ -126,7 +128,8 @@ Check if all asteroids have been destroyed
     | - player_idx   |
     | - position      |
     +--------------+
-	```
+```
+
 ## Entity-Relationship Diagram:
 **Player ---[ Saves ]--- Score ---[ Belongs to ]--- Game
 |
@@ -134,22 +137,26 @@ Asteroid**
 
 Thank you for playing! I hope you enjoyed the experience.
 
-
-__________________________________________________________
+-------------------------------------------------------------
 
 # Manual del Jugador
+
 ## Cómo Jugar:
+
 ### **Inicio del Juego: **
+
 Al iniciar el juego, se mostrará una interfaz de inicio donde podrás seleccionar el número de jugadores (1 o 2).
 Control de la Nave: Utiliza las teclas de dirección para mover la nave en la dirección deseada.
 
 ### Para el jugador 1:
+
 - Arriba: Tecla de flecha hacia arriba
 - Abajo: Tecla de flecha hacia abajo
 - Izquierda: Tecla de flecha hacia la izquierda
 - Derecha: Tecla de flecha hacia la derecha
 
 ###Para el jugador 2:
+
 - Arriba: Tecla "W"
 - Abajo: Tecla "S"
 - Izquierda: Tecla "A"
@@ -160,8 +167,10 @@ Control de la Nave: Utiliza las teclas de dirección para mover la nave en la di
 **Final del Juego:** El juego finaliza cuando se hallan completado todos los niveles.
 
 ## Número de Jugadores y Teclas:
+
 ### 1 Jugador:
-**Movimiento: ** Flechas direccionales (arriba, abajo, izquierda, derecha)
+
+**Movimiento: **Flechas direccionales (arriba, abajo, izquierda, derecha)
 **Disparar**: Tecla "J"
 2 Jugadores:
 Jugador 1:
@@ -229,11 +238,12 @@ Comprobar si se han destruido todos los asteroides
    Reiniciar o Salir
    ↓
    Fin
-````
+```
 
-#Diagrama de Clases:
+# Diagrama de Clases:
 
 ```plaintext
+
    +----------------+
     |        Sprite        |
    +----------------+
@@ -260,7 +270,7 @@ Comprobar si se han destruido todos los asteroides
     +--------------+
 ```
 
-#Diagrama de Entidad-Relación:
+# Diagrama de Entidad-Relación:
 
 **Jugador ---[ Guarda ]--- Puntaje ---[ Pertenece a ]--- Juego
 |
